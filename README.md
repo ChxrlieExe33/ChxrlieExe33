@@ -4,8 +4,6 @@
 
 Cybersecurity enthusiast, web developer, always a student.
 
-<img src="https://img.shields.io/github/followers/ChxrlieExe33?label=Follow" style=" float:left, margin-right:10px" />
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChxrlieExe33&show_icons=true&hide_border=true)
 
 ## You can find me here
