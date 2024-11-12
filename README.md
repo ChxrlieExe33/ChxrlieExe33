@@ -8,7 +8,7 @@ Cybersecurity enthusiast, web developer, always a student.
 
 ### You can find me here
 
-[<img align="left" alt="Website" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="fill #FFFFFF;"/>][Website]
+[<img align="left" alt="Website" width="32px" src="[https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg](https://freesvg.org/img/provider_internetsvg.png)"/>][Website]
 [<img align="left" alt="Twitter | Twitter" width="32px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>][twitter]
 [<img align="left" alt="LinkedIn | LinkedIn" width="32px" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>][linkedin]
 
