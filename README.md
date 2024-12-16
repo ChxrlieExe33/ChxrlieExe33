@@ -4,6 +4,8 @@
 
 Cybersecurity enthusiast, web developer, always a student.
 
+Currently studying Grado Superior Desarrollo de Aplicaciones Web at [MEDAC](https://medac.es/grado-superior/daw-desarrollo-aplicaciones-web)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChxrlieExe33&show_icons=true&hide_border=true)
 
 ### You can find me here
