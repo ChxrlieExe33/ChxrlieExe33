@@ -14,6 +14,6 @@ Currently studying Grado Superior Desarrollo de Aplicaciones Web at [MEDAC](http
 [<img align="left" alt="Twitter | Twitter" width="32px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>][twitter]
 [<img align="left" alt="LinkedIn | LinkedIn" width="32px" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>][linkedin]
 
-[website]: https://www.charlescrane.dev
+[website]: https://charlescrane.dev
 [twitter]: https://twitter.com/cc_pwnn
 [linkedin]: https://www.linkedin.com/in/charlesdavidcrane/
