@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
-<h3 align="center">I am a Software developer and cybersecurity enthusiast from Malaga, Spain. I love writing code and building out projects.</h3>
+<h3 align="center">I am a Software developer and cybersecurity enthusiast from Malaga, Spain. I love writing code and building out projects. Currently studying CFGS DAW at Medac/Davante</h3>
 
 - 👨‍💻 All of my projects are available at [https://charlescrane.dev](https://charlescrane.dev)
 
