@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a software developer and cybersecurity enthusiast from Malaga, Spain.<br><br>I am most proficient in Spring Boot for building scalable backends and Angular for dynamic and well structured frontends.<br><br>I also study cybersecurity, red teaming and adversary emulation.
+I am a software developer from <b>Málaga, Spain</b> specializing in building scalable, high-performance web applications with <b>Spring Boot and Angular</b>. I focus on creating clean backend architectures and intuitive, responsive frontend experiences.
+
+I also have a strong professional interest in <b>DevOps</b>, infrastructure and cloud technologies, particularly <b>AWS</b>, and continuously expand my knowledge in modern software delivery and infrastructure.
 
 
 ## 🌐 Socials:
